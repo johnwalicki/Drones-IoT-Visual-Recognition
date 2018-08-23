@@ -34,10 +34,13 @@ You can complete this task in no more than 10 minutes.
 ## Step 2 - Capturing Images
 Use your drone to capture images of interesting objects that you want to train a visual recognition model to autonomously identify.
 
-In this lab, we have created three zip files to identify neighborhoods affected by the devastating 2018 West Coast wildfires. These images are our training set. *Source attribution: USA Today [article](https://www.usatoday.com/in-depth/news/nation-now/2018/08/02/drone-aerials-california-wildfire-devastation/889885002/), various internet sources*
+In this lab, we have created three zip files to identify neighborhoods affected by the devastating 2018 West Coast wildfires. These images will be used as our training set.
 - Aerial drone images of burned homes - [BurnedHomes.zip](/classes/BurnedHomes.zip)
 - Aerial drone images of intact homes - [AerialHomes.zip](/classes/AerialHomes.zip)
 - Aerial drone images of forests, roads, rivers to be used for the negative class. [NotHomes.zip](/classes/NotHomes.zip)
+
+*Source attribution: USA Today [article](https://www.usatoday.com/in-depth/news/nation-now/2018/08/02/drone-aerials-california-wildfire-devastation/889885002/), various internet sources*
+
 
 ## Step 3 - Watson Studio
 In this section, we will create a Watson Studio account, create a Project and Watson Visual Recognition model to identify images in several classes.
@@ -53,10 +56,11 @@ In this section, we will create a Watson Studio account, create a Project and Wa
 
 ## Step 4 - Test your model
 In this section you will use sample images to confirm your model.
-- Test your model - follow these [instructions](/VRTEST.md)
+- Test your model - follow these [instructions](/VRMTEST.md)
 
 ## Step 5 - Implement this model in your Application
 Code snippets:
 
 *Quick links :*
-[Home](/README.md) - [Watson Studio](/STUDIO.md) - [**Visual Recognition Model**](/VISRECO.md)
+[**Home**](/README.md) - [Watson Studio](/STUDIO.md) - [Visual Recognition Model](/VISRECO.md) -
+[Test and Deploy](/VRMTEST.md)

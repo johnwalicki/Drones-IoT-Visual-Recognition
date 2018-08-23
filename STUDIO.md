@@ -1,5 +1,6 @@
 *Quick links :*
-[Home](/README.md) - [**Watson Studio**](/STUDIO.md) - [Visual Recognition Model](/VISRECO.md)
+[Home](/README.md) - [**Watson Studio**](/STUDIO.md) - [Visual Recognition Model](/VISRECO.md) -
+[Test and Deploy](/VRMTEST.md)
 ***
 
 # Watson Studio Set up and Configuration in IBM Cloud
@@ -71,4 +72,5 @@ Projects are your workspace to organize your resources, such as assets like data
 
 ***
 *Quick links :*
-[Home](/README.md) - [**Watson Studio**](/STUDIO.md) - [Visual Recognition Model](/VISRECO.md)
+[Home](/README.md) - [**Watson Studio**](/STUDIO.md) - [Visual Recognition Model](/VISRECO.md) -
+[Test and Deploy](/VRMTEST.md)

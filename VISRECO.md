@@ -1,5 +1,6 @@
 *Quick links :*
-[Home](/README.md) - [Watson Studio](STUDIO.md) - [**Visual Recognition Model**](VISRECO.md)
+[Home](/README.md) - [Watson Studio](STUDIO.md) - [**Visual Recognition Model**](VISRECO.md) -
+[Test and Deploy](/VRMTEST.md)
 ***
 
 ## Lab Objectives
@@ -20,7 +21,7 @@ The first step is to add Assets to your Watson Studio Project
 ![Watson Studio  screenshot](screenshots/WatsonStudio-Assets.png)
 
 #### Create a New Visual Recognition model
-- Click on the **New Visual Recognition model**
+- Click on **New Visual Recognition model**
 
 ![Watson Studio  screenshot](screenshots/WatsonStudio-VisualRecognitionModel.png)
 
@@ -69,11 +70,13 @@ The first step is to add Assets to your Watson Studio Project
 - Three zip files have been prepared which contain aerial drone images
 - These zip files are on the local lab workstation
 - If you following these steps on the web, download the aerial drone zip files here:
- - [BurnedHomes.zip](classes/BurnedHomes.zip)
- - [AerialHomes.zip](classes/AerialHomes.zip)
- - [NotHomes.zip](classes/NotHomes.zip)
+  - [BurnedHomes.zip](classes/BurnedHomes.zip)
+  - [AerialHomes.zip](classes/AerialHomes.zip)
+  - [NotHomes.zip](classes/NotHomes.zip)
 - Click on the **Browse** button
+- An operating system native File Dialog will open
 - Multi-select the three zip files **BurnedHomes.zip**, **AerialHomes.zip**, **NotHomes.zip**
+- Upload these zip files to your Watson Studio project
 
 ![Watson Studio  screenshot](screenshots/WatsonStudio-VisualRecognitionModelAddZipFiles.png)
 
@@ -116,4 +119,5 @@ The first step is to add Assets to your Watson Studio Project
 ![Watson Studio  screenshot](screenshots/WatsonStudio-VisualRecognitionModelSummary.png)
 
 *Quick links :*
-[Home](/README.md) - [Watson Studio](STUDIO.md) - [**Visual Recognition Model**](VISRECO.md)
+[Home](/README.md) - [Watson Studio](STUDIO.md) - [**Visual Recognition Model**](VISRECO.md) -
+[Test and Deploy](/VRMTEST.md)
