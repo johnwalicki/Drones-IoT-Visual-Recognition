@@ -1,33 +1,20 @@
 *Quick links :*
-[Home](/README.md) - [Watson Studio](STUDIO.md) - [**Create a Project**](PROJECT.md) -
- [Visual Recognition Model](VISRECO.md)
+[Home](/README.md) - [Watson Studio](STUDIO.md) - [**Visual Recognition Model**](VISRECO.md)
 ***
 
 ## Lab Objectives
 
-In this lab you will set up Watson Studio with a new Project.  You will learn:
+In this lab you will create a Visual Recognition model in a Watson Studio Project.  You will learn:
 
-- How to set up a new Watson Studio Project
+- How to work within a new Watson Studio Project
 - How to create a Visual Recognition model
 
 ### Watson Studio Projects
 
-Projects are your workspace to organize your resources, such as assets like data, collaborators, and analytic tools like notebooks and models
+Projects are your workspace to organize your resources, such as assets like data, collaborators, and analytic tools like notebooks and models.
+The first step is to add Assets to your Watson Studio Project
 
-#### Create a New Project
-
-- Click on **New project**
-- Select the **Complete** tile and press the **OK** button
-
-![Watson Studio New project screenshot](screenshots/WatsonStudio-NewProject-Tiles.png)
-
-- Give your Project a name : **Wildfire Burned Homes**
-- The Cloud Object Storage instance created in an earlier step should be prefilled
-- Press the **Create** button
-
-![Watson Studio New project screenshot](screenshots/WatsonStudio-NewProject.png)
-
-#### Add Assets to your Watson Studio
+#### Add Assets to your Watson Studio Project
 - Click on the **Assets** tab
 
 ![Watson Studio  screenshot](screenshots/WatsonStudio-Assets.png)
@@ -44,14 +31,14 @@ Projects are your workspace to organize your resources, such as assets like data
 ![Watson Studio  screenshot](screenshots/WatsonStudio-VisualRecognitionService.png)
 
 #### Create a Watson Visual Recognition Service
-- Select the **Lite** plan
+- Select the **Lite** plan and note the features
 - Scroll to the bottom and click on the **Create** button
 
 ![Watson Studio  screenshot](screenshots/WatsonStudio-VisualRecognitionServiceInstance.png)
 
 #### Rename Visual Recognition Model
 - The **Default Custom Model** name is not descriptive so let's rename it
-- Click on the **pencil** icon to edit the name.
+- Click on the **pencil** icon to edit the name
 
 ![Watson Studio  screenshot](screenshots/WatsonStudio-VisualRecognitionModelRename1.png)
 
@@ -79,8 +66,12 @@ Projects are your workspace to organize your resources, such as assets like data
 ![Watson Studio  screenshot](screenshots/WatsonStudio-VisualRecognitionModelIntactHomeClass.png)
 
 #### Upload Zip Files to Watson Studio Project
-- Three zip files have been prepared which contain aerial drone images.
+- Three zip files have been prepared which contain aerial drone images
 - These zip files are on the local lab workstation
+- If you following these steps on the web, download the aerial drone zip files here:
+ - [BurnedHomes.zip](classes/BurnedHomes.zip)
+ - [AerialHomes.zip](classes/AerialHomes.zip)
+ - [NotHomes.zip](classes/NotHomes.zip)
 - Click on the **Browse** button
 - Multi-select the three zip files **BurnedHomes.zip**, **AerialHomes.zip**, **NotHomes.zip**
 

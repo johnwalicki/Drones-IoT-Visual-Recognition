@@ -1,6 +1,5 @@
 *Quick links :*
-[Home](/README.md) - [**Watson Studio**](STUDIO.md) - [Create a Project](PROJECT.md) -
- [Visual Recognition Model](VISRECO.md)
+[Home](/README.md) - [**Watson Studio**](STUDIO.md) - [Visual Recognition Model](VISRECO.md)
 ***
 
 # Watson Studio Set up and Configuration in IBM Cloud
@@ -11,7 +10,6 @@ In this lab you will set up Watson Studio with a new Project.  You will learn:
 
 - Watson Studio
 - How to set up a new Watson Studio Project
-- How to create a Visual Recognition model
 
 ### Introduction
 
@@ -19,7 +17,7 @@ Watson Studio accelerates the machine and deep learning workflows required to in
 
 - Learn more from the Experts - [Introducing IBM Watson Studio](https://medium.com/ibm-watson/introducing-ibm-watson-studio-e93638f0bb47)
 
-### Step 1 - Watson Studio Setup
+### Watson Studio Setup
 
 #### Create **Cloud Object Storage**
 
@@ -53,6 +51,23 @@ Watson Studio accelerates the machine and deep learning workflows required to in
 - Walk through the introductory tutorial to learn about Watson Studio
 
 ![Watson Studio Welcome screenshot](screenshots/WatsonStudio-Welcome.png)
+
+### Watson Studio Projects
+
+Projects are your workspace to organize your resources, such as assets like data, collaborators, and analytic tools like notebooks and models
+
+#### Create a New Project
+
+- Click on **New project**
+- Select the **Complete** tile and press the **OK** button
+
+![Watson Studio New project screenshot](screenshots/WatsonStudio-NewProject-Tiles.png)
+
+- Give your Project a name : **Wildfire Burned Homes**
+- The Cloud Object Storage instance created in an earlier step should be prefilled
+- Press the **Create** button
+
+![Watson Studio New project screenshot](screenshots/WatsonStudio-NewProject.png)
 
 ***
 *Quick links :*
