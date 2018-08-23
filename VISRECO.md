@@ -116,5 +116,4 @@ The first step is to add Assets to your Watson Studio Project
 ![Watson Studio  screenshot](screenshots/WatsonStudio-VisualRecognitionModelSummary.png)
 
 *Quick links :*
-[Home](/README.md) - [Watson Studio](STUDIO.md) - [**Create a Project**](PROJECT.md) -
- [Visual Recognition Model](VISRECO.md)
+[Home](/README.md) - [Watson Studio](STUDIO.md) - [**Visual Recognition Model**](VISRECO.md)
