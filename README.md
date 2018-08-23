@@ -17,7 +17,6 @@ This tutorial can be completed using an IBM Cloud Lite account.
 
 * Create an [IBM Cloud account](https://console.bluemix.net/registration)
 * Log into [IBM Cloud](https://console.bluemix.net/login)
-* Log into [Watson Studio](https://dataplatform.ibm.com)
 
 ## Estimated time
 
@@ -41,9 +40,10 @@ In this lab, we have created three zip files to identify neighborhoods affected 
 * Aerial drone images of forests, roads, rivers to be used for the negative class. [NotHomes.zip](/classes/NotHomes.zip)
 
 ## Step 3 - Watson Studio
-In this section, we will create a Watson Studio Project and Watson Visual Recognition model to identify images in several classes.
+In this section, we will create a Watson Studio account, create a Project and Watson Visual Recognition model to identify images in several classes.
 
-* Create a Project - lots of screenshots
+* Create a Watson Studio account - follow these [instructions](/STUDIO.md)
+* Create a Project - follow these [instructions](/PROJECT.md)
 * Create a Visual Recognition model - lots of screenshots
 * Upload three zips to Cloud Storage - lots of screenshots
 - Create a class *Burned Home* - drag a zip - lots of screenshots
