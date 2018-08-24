@@ -70,6 +70,8 @@ Projects are your workspace to organize your resources, such as assets like data
 
 ![Watson Studio New project screenshot](screenshots/WatsonStudio-NewProject.png)
 
+You are ready to set up your Project with Watson Visual Recognition. Proceed to the next [step](/VISRECO.md)
+
 ***
 *Quick links :*
 [Home](/README.md) - [**Watson Studio**](/STUDIO.md) - [Visual Recognition Model](/VISRECO.md) -

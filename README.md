@@ -26,7 +26,7 @@ You can complete this task in no more than 10 minutes.
 
 ## Step 1 - Learn about Drones
 
-- Contixo
+- [Contixo F8](http://www.contixo.com/products/Contixo-F8-Foldable-Pocket-Size-Selfie-Drone-Voice-Controls-720P-HD-Wifi-Live-FPV-Video-Camera-360-Stunts-8-10min-Fly-Time-Gravity-Control-Red_308.html)
 - Tello - Control a [Tello Drone using Node-RED](https://github.com/johnwalicki/Node-RED-Tello-Control)
 - Hobbyist drones
 - Commercial drones
@@ -59,7 +59,9 @@ In this section you will use sample images to confirm your model.
 - Test your model - follow these [instructions](/VRMTEST.md)
 
 ## Step 5 - Implement this model in your Application
-Code snippets:
+- Code snippets
+
+Let's get started - [Set up Watson Studio](/STUDIO.md)
 
 *Quick links :*
 [**Home**](/README.md) - [Watson Studio](/STUDIO.md) - [Visual Recognition Model](/VISRECO.md) -
